@@ -1,3 +1,8 @@
 NEx version
 Packaging says NE3 
 applied IP 192.168.1.100 instead of 192.168.1.2
+
+forced IP to 192.168.1.2 -- no changes
+
+used 2 different Wifi sticks of different ages, no changes.
+request times out.
